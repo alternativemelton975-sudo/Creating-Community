@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: cadetblue;
+    position: center;
+}
+
+
+p{
+    font-size: 25px;
+    background-color:rgb(210, 93, 93);
+    color:maroon;
+    position: center;
+}
+
+h1{
+    font-size: 25px;
+    position: center;
+}
+
+header {
+    background-color: #1e1e1e;
+    font-size: 25px;
+    position: center;
+    color:blueviolet;
+}
+
+button{
+    color:rgb(105, 5, 198);
+    background-color:darkgoldenrod;
+}
+
+.textarea{
+    width: 10px;
+    height: 10px;
+    background-color: yellowgreen;
+    color:rgb(210, 93, 93)
+}
+
+nav {
+    background-color: #333;
+    position: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color: #111;
+}
+
+main {
+    padding: 20px;
+    position: center;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+Name: Creating-Community-Dashboard.html
+
+.name{
+    font-size: 25px;
+    position: center;
+    color: blueviolet;
+}
+
+.textarea{
+    width: 500px;
+    height: 200px;
+    background-color: yellowgreen;
+    color:rgb(210, 93, 93)
+} 
+
+button{
+    color:rgb(105, 5, 198);
+    background-color:darkgoldenrod;
+}
+
+header {
+    background-color: #1e1e1e;
+    font-size: 25px;
+    position: center;
+    color:blueviolet;
+}
