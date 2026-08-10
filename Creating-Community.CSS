@@ -4,6 +4,7 @@
     box-sizing: border-box;
     background-color: black;
     position: center;
+    color: white;
 }
 
 
@@ -17,6 +18,8 @@ p{
 h1{
     font-size: 25px;
     position: center;
+    color: white;
+    background-color: black;
 }
 
 header {
