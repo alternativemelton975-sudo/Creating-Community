@@ -2,15 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: cadetblue;
+    background-color: black;
     position: center;
 }
 
 
 p{
     font-size: 25px;
-    background-color:rgb(210, 93, 93);
-    color:maroon;
+    background-color: black;
+    color: white;
     position: center;
 }
 
@@ -20,26 +20,26 @@ h1{
 }
 
 header {
-    background-color: #1e1e1e;
+    background-color: black;
     font-size: 25px;
     position: center;
-    color:blueviolet;
+    color: white;
 }
 
 button{
-    color:rgb(105, 5, 198);
-    background-color:darkgoldenrod;
+    color: white;
+    background-color: black;
 }
 
 .textarea{
     width: 10px;
     height: 10px;
-    background-color: yellowgreen;
-    color:rgb(210, 93, 93)
+    background-color: black;
+    color: white;
 }
 
 nav {
-    background-color: #333;
+    background-color: red;
     position: center;
 }
 nav ul {
@@ -77,24 +77,25 @@ Name: Creating-Community-Dashboard.html
 .name{
     font-size: 25px;
     position: center;
-    color: blueviolet;
+    color: white;
+background-color: black;
 }
 
 .textarea{
     width: 500px;
     height: 200px;
-    background-color: yellowgreen;
-    color:rgb(210, 93, 93)
+    background-color: black;
+    color: white;
 } 
 
 button{
-    color:rgb(105, 5, 198);
-    background-color:darkgoldenrod;
+    color: white;
+    background-color: black;
 }
 
 header {
-    background-color: #1e1e1e;
+    background-color: black;
     font-size: 25px;
     position: center;
-    color:blueviolet;
+    color: white;
 }
